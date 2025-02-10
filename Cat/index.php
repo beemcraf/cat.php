@@ -1,9 +1,9 @@
 <?php
 // เชื่อมต่อฐานข้อมูล (Connect to the database)
 $servername = "localhost";
-$username = "its66040233122";
-$password = "V7nuB5S3";
-$dbname =  "its66040233122";
+$username = "its66040233103";
+$password = "K9qlX1L3";
+$dbname =  "its66040233103";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
